@@ -3,5 +3,5 @@
 Justin Hu
 
 - 🌱 Current EE Undergrad @ UCLA
-- 👯 Looking for internship for summer 2024, preferably in hardware design
+- 👯 Looking for summer 2024 internship, preferably in hardware design (circuits, semiconductor devices)
 - ⚡ Fun fact: I just hit 15k in maimaiDX this past summer!
